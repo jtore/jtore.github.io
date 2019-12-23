@@ -1,0 +1,26 @@
+#nav ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+    overflow:hidden;
+}
+
+#nav li{
+    float:left;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#nav li a{
+    display:flex;
+    justify-content: center;
+}
+
+li a:hover{
+    background-color: grey;
+
+}
