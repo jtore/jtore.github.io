@@ -1,3 +1,0 @@
-# jtore.github.io
-
-# Test 
